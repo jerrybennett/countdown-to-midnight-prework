@@ -1,6 +1,8 @@
 #write your code here
 
-def countdown(int)
+def countdown(n)
   count = 0
-  while count 
+  while count < 10
+    puts 
+  end
 end
